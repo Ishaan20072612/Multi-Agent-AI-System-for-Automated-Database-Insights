@@ -46,7 +46,7 @@ questions  via SQL      generates PDF
 
 ## 🚀 Live Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multi-agent-db-insights.streamlit.app)
 
 > Replace the link above after deploying to Streamlit Cloud.
 
