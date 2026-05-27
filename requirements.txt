@@ -1,8 +1,8 @@
-langchain==0.3.25
-langchain-openai==0.3.18
-langchain-core==0.3.59
-langgraph==0.4.5
-openai==1.82.0
-pydantic==2.11.4
-fpdf==1.7.2
-streamlit==1.45.1
+langchain>=0.3.25
+langchain-openai>=0.3.18
+langchain-core>=0.3.61
+langgraph>=0.4.5
+openai>=1.82.0
+pydantic>=2.11.4
+fpdf2>=2.7.9
+streamlit>=1.45.1
