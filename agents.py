@@ -120,7 +120,7 @@ def execute_sql(query: str) -> str:
 @tool
 def generate_pdf_report(text: str, filename: str = "report.pdf") -> str:
     """Generate a PDF report from the given text and return its file path."""
-    from fpdf import FPDF
+    from fpdf import FPDF  # fpdf2 package
     try:
         pdf = FPDF()
         pdf.add_page()
