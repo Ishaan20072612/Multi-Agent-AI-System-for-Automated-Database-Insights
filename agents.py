@@ -7,7 +7,7 @@ import sqlite3
 import os
 from typing import Annotated, Literal
 from pydantic import BaseModel, Field
-from langchain.agents import tool
+from langchain_core.tools import tool
 from langchain.schema import AIMessage, SystemMessage, HumanMessage
 from langchain_openai import ChatOpenAI
 from langgraph.graph import StateGraph, END, START
